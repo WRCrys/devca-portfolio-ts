@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/devca-portfolio-ts/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/devca-portfolio-ts/static/js/main.b61626a9.chunk.js",
+    "main.js.map": "/devca-portfolio-ts/static/js/main.b61626a9.chunk.js.map",
+    "runtime-main.js": "/devca-portfolio-ts/static/js/runtime-main.37af157d.js",
+    "runtime-main.js.map": "/devca-portfolio-ts/static/js/runtime-main.37af157d.js.map",
+    "static/js/2.2e4471cc.chunk.js": "/devca-portfolio-ts/static/js/2.2e4471cc.chunk.js",
+    "static/js/2.2e4471cc.chunk.js.map": "/devca-portfolio-ts/static/js/2.2e4471cc.chunk.js.map",
+    "static/js/3.047d47aa.chunk.js": "/devca-portfolio-ts/static/js/3.047d47aa.chunk.js",
+    "static/js/3.047d47aa.chunk.js.map": "/devca-portfolio-ts/static/js/3.047d47aa.chunk.js.map",
+    "index.html": "/devca-portfolio-ts/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/devca-portfolio-ts/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.2e4471cc.chunk.js.LICENSE.txt": "/devca-portfolio-ts/static/js/2.2e4471cc.chunk.js.LICENSE.txt",
+    "static/media/alien.d0408ba8.svg": "/devca-portfolio-ts/static/media/alien.d0408ba8.svg",
+    "static/media/android-logo.57592040.svg": "/devca-portfolio-ts/static/media/android-logo.57592040.svg",
+    "static/media/anonymous.f7994b8d.svg": "/devca-portfolio-ts/static/media/anonymous.f7994b8d.svg",
+    "static/media/astronaut-cute.a45be7db.svg": "/devca-portfolio-ts/static/media/astronaut-cute.a45be7db.svg",
+    "static/media/astronaut-holding-cup-coffe.2387509b.svg": "/devca-portfolio-ts/static/media/astronaut-holding-cup-coffe.2387509b.svg",
+    "static/media/astronaut-moon.46c49349.svg": "/devca-portfolio-ts/static/media/astronaut-moon.46c49349.svg",
+    "static/media/astronaut_listening_music_with_laptop.ce228640.jpg": "/devca-portfolio-ts/static/media/astronaut_listening_music_with_laptop.ce228640.jpg",
+    "static/media/cat-hug-earth.026f4edd.svg": "/devca-portfolio-ts/static/media/cat-hug-earth.026f4edd.svg",
+    "static/media/csharp-logo.a7b37de8.svg": "/devca-portfolio-ts/static/media/csharp-logo.a7b37de8.svg",
+    "static/media/galaxy.b47eb920.png": "/devca-portfolio-ts/static/media/galaxy.b47eb920.png",
+    "static/media/git.43d387b7.svg": "/devca-portfolio-ts/static/media/git.43d387b7.svg",
+    "static/media/me.52f3689e.png": "/devca-portfolio-ts/static/media/me.52f3689e.png",
+    "static/media/react-logo.2d80508d.svg": "/devca-portfolio-ts/static/media/react-logo.2d80508d.svg",
+    "static/media/spaceship-plane.7b1b28b0.svg": "/devca-portfolio-ts/static/media/spaceship-plane.7b1b28b0.svg",
+    "static/media/sql-server.b0fa9ca5.svg": "/devca-portfolio-ts/static/media/sql-server.b0fa9ca5.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.37af157d.js",
+    "static/js/2.2e4471cc.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.b61626a9.chunk.js"
+  ]
+}
